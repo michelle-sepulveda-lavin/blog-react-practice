@@ -1,0 +1,25 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Rihanna, Eminem on stage",
+            "resume": "Integrating technology and software solutions.",
+            "description": "It is our belief that in order to be most efficient it requires adaptive technology and software solutions.",
+            "image": "http://localhost:3000/img/event/1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Dr. Dre on stage live",
+            "resume": "Integrating technology and software solutions.",
+            "description": "It is our belief that in order to be most efficient it requires adaptive technology and software solutions.",
+            "image": "http://localhost:3000/img/event/2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Macaroons live Party",
+            "resume": "Integrating technology and software solutions.",
+            "description": "It is our belief that in order to be most efficient it requires adaptive technology and software solutions.",
+            "image": "http://localhost:3000/img/event/3.jpg"
+        }
+    ]
+}

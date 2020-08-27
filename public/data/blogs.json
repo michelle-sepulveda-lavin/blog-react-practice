@@ -1,0 +1,19 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Communicating with you every step of the way",
+            "date": "July 02, 2014 | Tag: Technology | By: David John",
+            "description": "We combine continuing education and constant monitoring us with your project details if you are interested to ge of industry trends and innovations to provide the right IT solution at the right time. Contact us with your project details if you are interested to get our Web Solution or Software Development Services.",
+            "image" : "http://localhost:3000/img/blog/1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Communicating with you every step of the way",
+            "date": "July 02, 2014 | Tag: Technology | By: David John",
+            "description": "We combine continuing education and constant monitoring us with your project details if you are interested to ge of industry trends and innovations to provide the right IT solution at the right time. Contact us with your project details if you are interested to get our Web Solution or Software Development Services.",
+            "image": "http://localhost:3000/img/blog/2.jpg"
+
+        }
+    ]
+}

@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import './index.css';
-import App from './App';
+
 import * as serviceWorker from './serviceWorker';
+
+import Layouts from './layouts';
+
+import 'bootstrap';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Layouts />
   </React.StrictMode>,
   document.getElementById('root')
 );

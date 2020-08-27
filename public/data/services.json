@@ -1,0 +1,32 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "Focus on Systems",
+            "description": "While our prices are competitive, it's the value that's unmatched.",
+            "link": {
+                "label": "Read More",
+                "url": "/#"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Plan of Action",
+            "description": "While our prices are competitive, it's the value that's unmatched.",
+            "link": {
+                "label": "Read More",
+                "url": "/#"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Quality Compliance",
+            "description": "While our prices are competitive, it's the value that's unmatched.",
+            "link": {
+                "label": "Read More",
+                "url": "/#"
+            }
+        }
+    ]
+    
+}
